@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "model": "Honda CB500F",
+    "category_id": 1,
+    "engine_capacity": "471 cc",
+    "displacement": "47 hp",
+    "weight": "189 kg",
+    "price": "10.000.000",
+    "image": "../img/MotosAutomáticas216294-800-auto.png"
+  },
+  {
+    "id": 2,
+    "model": "Yamaha MT-03",
+    "category_id": 2,
+    "engine_capacity": "321 cc",
+    "displacement": "42 hp",
+    "weight": "168 kg",
+    "price": "8.000.000",
+    "image": "../img/MotosAutomáticas305372-800-auto.png"
+  },
+  {
+    "id": 3,
+    "model": "Kawasaki Z400",
+    "category_id": 3,
+    "engine_capacity": "399 cc",
+    "displacement": "45 hp",
+    "weight": "167 kg",
+    "price": "9.000.000",
+    "image": "../img/MotosAutomáticasAKT-DYNAMIC-PRO-CAMUFLADA-CBS-PORTADA-V2-Galgo-Colombia.webp"
+  },
+  {
+    "id": 4,
+    "model": "KTM 390 Duke",
+    "category_id": 4,
+    "engine_capacity": "373 cc",
+    "displacement": "44 hp",
+    "weight": "149 kg",
+    "price": "9.500.000",
+    "image": "../img/MotosAutomáticastvs_ntorq_fi_negro_mate_azul_foto1.Motos Automáticaspng.png"
+  },
+  {
+    "id": 5,
+    "model": "Suzuki GSX-S750",
+    "category_id": 5,
+    "engine_capacity": "749 cc",
+    "displacement": "114 hp",
+    "weight": "213 kg",
+    "price": "12.000.000",
+    "image": "../img/MotosTrabajoCargaAJUSTE-2-MOTOTRABAJO_0000_2634.png"
+  },
+  {
+    "id": 6,
+    "model": "BMW G310R",
+    "category_id": 1,
+    "engine_capacity": "313 cc",
+    "displacement": "34 hp",
+    "weight": "158 kg",
+    "price": "7.500.000",
+    "image": "../img/MotosAventura292008-800-auto.png"
+  },
+  {
+    "id": 7,
+    "model": "Ducati Monster 797",
+    "category_id": 2,
+    "engine_capacity": "803 cc",
+    "displacement": "73 hp",
+    "weight": "193 kg",
+    "price": "11.000.000",
+    "image": "../img/MotosAventuranueva-Africa-Twin-1100-negro.webp"
+  },
+  {
+    "id": 8,
+    "model": "Triumph Street Triple",
+    "category_id": 3,
+    "engine_capacity": "765 cc",
+    "displacement": "123 hp",
+    "weight": "166 kg",
+    "price": "13.000.000",
+    "image": "../img/MotosAventuratrk-502-blanca-2023-foto1.png"
+  },
+  {
+    "id": 9,
+    "model": "Kawasaki Ninja 400",
+    "category_id": 4,
+    "engine_capacity": "399 cc",
+    "displacement": "49 hp",
+    "weight": "168 kg",
+    "price": "9.200.000",
+    "image": "../img/MotosEndurohonda-crf-250r.webp"
+  },
+  {
+    "id": 10,
+    "model": "Yamaha YZF-R3",
+    "category_id": 5,
+    "engine_capacity": "321 cc",
+    "displacement": "42 hp",
+    "weight": "169 kg",
+    "price": "8.500.000",
+    "image": "../img/MotosEnduromotos-enduro-colombia-victory-mrx-arizona.jpg"
+  },
+  {
+    "id": 11,
+    "model": "Honda CBR500R",
+    "category_id": 6,
+    "engine_capacity": "471 cc",
+    "displacement": "47 hp",
+    "weight": "192 kg",
+    "price": "10.500.000",
+    "image": "../img/MotosEndurovpz3mkcwl73nns7y5kqdyxyypykjgzl5rpmddzsa.png"
+  },
+  {
+    "id": 12,
+    "model": "Suzuki SV650",
+    "category_id": 6,
+    "engine_capacity": "645 cc",
+    "displacement": "75 hp",
+    "weight": "198 kg",
+    "price": "9.800.000",
+    "image": "../img/MotosSemiautomáticashonda-wave-110.webp"
+  }
+]

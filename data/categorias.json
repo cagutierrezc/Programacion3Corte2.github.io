@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Motos urbanas"
+  },
+  {
+    "id": 2,
+    "name": "Motos automáticas"
+  },
+  {
+    "id": 3,
+    "name": "Motos semiautomáticas"
+  },
+  {
+    "id": 4,
+    "name": "Motos aventura"
+  },
+  {
+    "id": 5,
+    "name": "Motos enduro"
+  },
+  {
+    "id": 6,
+    "name": "Motos para trabajo de carga"
+  }
+]
