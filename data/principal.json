@@ -1,0 +1,99 @@
+{
+    "categories": [
+
+      {
+        "id": 1,
+        "name": "Motos urbanas"
+      },
+      {
+        "id": 2,
+        "name": "Motos automáticas"
+      },
+      {
+        "id": 3,
+        "name": "Motos semiautomáticas"
+      },
+      {
+        "id": 4,
+        "name": "Motos aventura"
+      },
+      {
+        "id": 5,
+        "name": "Motos enduro"
+      },
+      {
+        "id": 6,
+        "name": "Motos para trabajo de carga"
+      }
+      
+    ],
+    "products": [
+      {
+        "id": 1,
+        "model": "Honda CB500F",
+        "category_id": 1,
+        "name": "Motos para trabajo de carga",
+        "engine_capacity": "471 cc",
+        "displacement": "47 hp",
+        "weight": "189 kg",
+        "price": "10.000.000",
+        "image": "img/MotosAutomáticas216294-800-auto.png"
+      },
+      {
+        "id": 2,
+        "model": "Honda 2",
+        "category_id": 2,
+        "name": "Motos para trabajo de carga",
+        "engine_capacity": "471 cc",
+        "displacement": "47 hp",
+        "weight": "189 kg",
+        "price": "15.000.000",
+        "image": "img/MotosAutomáticas305372-800-auto.png"
+      },
+      {
+        "id": 3,
+        "model": "akt 3",
+        "category_id": 3,
+        "name": "Motos para trabajo de carga",
+        "engine_capacity": "500 cc",
+        "displacement": "47 hp",
+        "weight": "189 kg",
+        "price": "15.000.000",
+        "image": "img/MotosAutomáticasAKT-DYNAMIC-PRO-CAMUFLADA-CBS-PORTADA-V2-Galgo-Colombia.webp"
+      },
+      {
+        "id": 4,
+        "model": "akt 4",
+        "category_id": 4,
+        "name": "Motos para trabajo de carga",
+        "engine_capacity": "800 cc",
+        "displacement": "47 hp",
+        "weight": "189 kg",
+        "price": "15.000.000",
+        "image": "img/MotosAutomáticasnueva-dio-dlx-gris.webp"
+      },
+      {
+        "id": 5,
+        "model": "akt 5",
+        "category_id": 5,
+        "name": "Motos aventura",
+        "engine_capacity": "1200 cc",
+        "displacement": "47 hp",
+        "weight": "189 kg",
+        "price": "15.000.000",
+        "image": "img/MotosAutomáticastvs_ntorq_fi_negro_mate_azul_foto1.Motos Automáticaspng.png"
+      },
+      {
+        "id": 6,
+        "model": "akt 6",
+        "category_id": 6,
+        "name": "Motos aventura",
+        "engine_capacity": "400 cc",
+        "displacement": "47 hp",
+        "weight": "189 kg",
+        "price": "15.000.000",
+        "image": "img/MotosAventura292008-800-auto.png"
+      }
+    ]
+  }
+  

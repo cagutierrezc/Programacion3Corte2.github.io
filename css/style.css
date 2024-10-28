@@ -11,7 +11,7 @@ body {
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
-    font-variation-settings:"wdth" 100;
+    font-variation-settings:"width" 100;
 }
 
 .content {
@@ -29,7 +29,7 @@ body {
 
 }
 
-img {
+.products_list img {
     flex-grow: 1; /* Todas las imágenes crecen equitativamente */
     width: 12.5%;
     height: 80vh;
@@ -39,7 +39,7 @@ img {
 
 }
 
-img:hover {
+.products_list img:hover {
     width: 40% ;
     cursor: pointer;
 }
@@ -90,3 +90,34 @@ img:hover {
 }
 
 
+.featured-motorcycles {
+    margin-bottom: 20px;
+}
+
+.featured-motorcycles h2 {
+    text-align: center;
+}
+
+#featured-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.product_item {
+    width: 100%; /* O el tamaño que prefieras */
+    text-align: center;
+}
+.motorcycle-list {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:1rem;
+}
+
+.product_item img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16/9;
+    object-fit: contain;
+    object-position: center;
+}

@@ -1,7 +1,7 @@
 // Función para cargar un archivo JSON
 async function loadJSON(url) {
     try {
-        const response = await fetch(url);
+        const response = await fetch('../data/principal.json');
         return await response.json();
     } catch (error) {
         console.error('Error cargando el archivo:', error);
