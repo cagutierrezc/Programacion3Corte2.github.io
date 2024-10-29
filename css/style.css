@@ -15,11 +15,11 @@ body {
 }
 
 .content {
-    display: flex;
+   /* display: flex; */
     flex-direction: column;
     justify-content: center; /* Centra verticalmente */
     align-items: center; /* Centra horizontalmente */
-    height: 100vh; /* Asegura que la sección ocupe toda la altura de la ventana */
+    /*height: 100vh; /* Asegura que la sección ocupe toda la altura de la ventana */
 }
 
 .products_list {
@@ -51,12 +51,13 @@ body {
 
 .content_listItems {
     text-align: center; /* Centra el texto */
-    margin-top: 20px; /* Añade un margen superior para separar del área de imágenes */
+    margin-top: 10px; /* Añade un margen superior para separar del área de imágenes */
+    margin-bottom: 16px;
 }
 
 .content_listItems > h2 {
     font-size: 2rem;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     color: #3f25ff;
 }
 
@@ -65,6 +66,7 @@ body {
     display: flex;
     justify-content: center; /* Centra horizontalmente los enlaces */
     gap: 28px; /* Espacio entre los enlaces */
+
 }
 
 .category_list a {
@@ -90,9 +92,9 @@ body {
 }
 
 
-.featured-motorcycles {
-    margin-bottom: 20px;
-}
+/*.featured-motorcycles {
+    margin: auto;
+}*/
 
 .featured-motorcycles h2 {
     text-align: center;
@@ -112,6 +114,7 @@ body {
     display: grid;
     grid-template-columns: repeat(3,1fr);
     gap:1rem;
+    margin-bottom: 60px;
 }
 
 .product_item img {
