@@ -1,6 +1,6 @@
 $(document).ready(function() { 
     // Cargar datos desde JSON
-    $.getJSON('../data/principal.json', function(data) {
+    $.getJSON('https://raw.githubusercontent.com/cagutierrezc/Programacion3Corte2.github.io/refs/heads/main/data/principal.json', function(data) {
         // Crear la categoría "Todo"
         $('.category_list').append('<a href="#" class="category_item" category="all">Todo</a>');
 

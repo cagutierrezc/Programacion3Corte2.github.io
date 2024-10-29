@@ -10,7 +10,7 @@ async function loadJSON(url) {
 
 // Función para listar categorías
 async function listCategory() {
-    const category = await loadJSON('../data/categorias.json');
+    const category = await loadJSON('https://raw.githubusercontent.com/cagutierrezc/Programacion3Corte2.github.io/refs/heads/main/data/categorias.json');
     let categoryList = document.querySelector('#category-list');
 
     category.forEach((element) => {
@@ -22,7 +22,7 @@ async function listCategory() {
 
 // Función para listar motocicletas
 async function listMotorcycles() {
-    const motorcycles = await loadJSON('../data/motos.json');
+    const motorcycles = await loadJSON('https://raw.githubusercontent.com/cagutierrezc/Programacion3Corte2.github.io/refs/heads/main/data/motos.json');
     let productContainer = document.querySelector('#motorcycle-list');
 
     motorcycles.forEach((element) => {
